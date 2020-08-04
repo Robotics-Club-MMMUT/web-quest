@@ -17,7 +17,6 @@ The boilerplate for the single page website for Robotics Club, MMMUT.
 
 ---
 
-<br/>
 
 This repository contains:
 -  MMMUT logo 
