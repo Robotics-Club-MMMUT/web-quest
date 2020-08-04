@@ -2,7 +2,7 @@
 The boilerplate for the single page website for Robotics Club, MMMUT.
 
 
-> Seek the content from the official [website][website] of Robotics Club to develop your webpage. The webpage should consists of three sections namely:-
+> Seek the content from the official [website][website] of Robotics Club to develop your webpage. The webpage should consist of three sections namely:-
 1. Header
       - College Logo
       - RC Logo
