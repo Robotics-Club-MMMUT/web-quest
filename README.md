@@ -23,8 +23,11 @@ This repository contains:
 -  MMMUT logo 
 -  RC logo 
 
-<img  width="50px" src="./mmm_logo.png"/>
-<img  width="50px" src="./rc_logo.png"/>
+<img align="left"  width="50px" src="./mmm_logo.png"/>
+<img align="left"  width="50px" src="./rc_logo.png"/>
+
+<br/>
+<br/>
 
 ---
 
